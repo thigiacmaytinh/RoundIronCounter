@@ -1,0 +1,1 @@
+yolo export model='best_iron.pt' imgsz=640,640 format=onnx opset=12 dynamic=False half=True device=0
