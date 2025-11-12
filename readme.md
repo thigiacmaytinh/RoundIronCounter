@@ -14,6 +14,9 @@ Cài đặt pip package
 
 `pip install -r requirements.txt`
 
+Cài đặt Pytorch 2.7.0 CUDA
+
+`pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0 --index-url https://download.pytorch.org/whl/cu118`
 
 
 ## Hướng dẫn training
