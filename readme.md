@@ -2,7 +2,7 @@
 
 Repo này chứa dataset, notebook để training model Object Detection đếm số lượng cây sắt.
 
-![](Images/steel3.jpg)
+![](Images/steel3.JPG)
 
 ## Hướng dẫn cài đặt
 
